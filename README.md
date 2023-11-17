@@ -1,5 +1,5 @@
-# Ex.05 Design a Website for Server Side Processing
-## Date:28.10.2023
+# Ex-05 Design a Website for Server Side Processing
+## Date: 26/10/2023
 
 ## AIM:
 To design a website to find total surface area of a square prism in server side.
@@ -30,7 +30,8 @@ Create a HTML file to implement form based input and output.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```html
+```
+html
 <html>
 
 <head>
